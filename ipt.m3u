@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 FHD" tvg-logo="http://181.233.124.53:80/images/46019e03e56f53c12cfb13d6820d525c.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports 6 FHD
 http://weselltv.vip:80/LQ5GZ2EBCC/LQ5GZBMF92/515967.ts
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-6.png" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 HEVC
+http://line.powerdino.com:80/86riovcut3/doy7iw0773/594511
